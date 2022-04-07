@@ -1,4 +1,3 @@
-# Diplomová práca (FEI 2021/2022)
 <table>
    <tbody>
       <tr>
