@@ -7,3 +7,4 @@ github:
   tar_url: https://github.com/Meidie/ar-lab-release/archive/refs/tags/v1.0.tar.gz
   zip_url: https://github.com/Meidie/ar-lab-release/archive/refs/tags/v1.0.zip
   apk_url: https://github.com/Meidie/ar-lab-release/releases/download/v1.0/ARLab_v1.0.apk
+  xcode_url: https://github.com/Meidie/ar-lab-release/releases/download/v1.0/ARLab_v1.0_Xcode_project.zip
